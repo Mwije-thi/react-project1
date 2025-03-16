@@ -1,5 +1,5 @@
 //import logo from './logo.svg';
-import profile from './react logo 3.jpg';
+import profile from './Andromeda-galaxy.webp';
 import './App.css';
 
 function App() {
